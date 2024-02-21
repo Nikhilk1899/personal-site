@@ -1,1 +1,1 @@
-alert("The Website is currentl under development!");
+window.alert("The Website is currentl under development!");
