@@ -107,7 +107,7 @@ nav button:hover {
   transition-timing-function: ease-in-out;
 }
 .ct-btn:hover {
-  border: none;
+  /* border: none; */
   background-color: #222;
   color: #eee;
 }
