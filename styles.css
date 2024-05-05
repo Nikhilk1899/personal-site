@@ -161,7 +161,8 @@ footer{
   transition-timing-function: ease-in-out;
 }
 .emails a:hover{
-  text-decoration: 1px solid #222;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
 
 }
  /* Gallery page */
