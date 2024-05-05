@@ -27,13 +27,13 @@ function Renderer(page) {
  };
 }
 function renderAboutPage() {
- Renderer("/components/about.txt");
+ Renderer("./components/about.txt");
 }
 function renderGalleryPage() {
- Renderer("/components/gallery.txt");
+ Renderer("./components/gallery.txt");
 }
 function renderContactPage() {
- Renderer("/components/contact.txt");
+ Renderer("./components/contact.txt");
  setTimeout(() => {
  const form = document.querySelector("form");
  let firstName = document.querySelector("#first-name");
