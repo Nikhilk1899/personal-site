@@ -1,4 +1,4 @@
-ple<div class="section">
+<div class="section">
  <h1 class="section-heading">Gallery</h1>
  <div class="gallery-container">
  <div class="project-card">
