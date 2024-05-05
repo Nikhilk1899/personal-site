@@ -108,8 +108,8 @@ nav button:hover {
 }
 .ct-btn:hover {
   border: none;
-  border-bottom: 2px solid #222;
-  border-radius: 0;
+  background-color: #222;
+  color: #eee;
 }
 footer {
   width: 100%;
