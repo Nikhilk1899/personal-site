@@ -1,6 +1,6 @@
 <div class="section">
  <h1 class="section-heading text-lg">Contact</h1>
- <form action="index.html" method="get">
+ <form action="mailto:khanalnikhil58@gmail.com" method="get">
  <fieldset>
  <legend>Get In Touch</legend>
  <div class="form-sub-group">
