@@ -1,6 +1,6 @@
-onload.alert(`The website is currently under construction.
-Please feel free to add suggestions>
-Thank You!`)
+alert(`The website is currently under construction.
+Please feel free to add suggestions
+Thank You!`);
 
 const HeaderBtn = document.querySelector("#header-btn");
 const aboutMeBtn = document.querySelector("#aboutme-btn");
