@@ -19,7 +19,7 @@
  </div>
 
  <div class="project-card">
- <img src="./gallery/5.jpg" alt="sunset">
+ <img src="gallery/5.jpg" alt="sunset">
  <p class="title">Example 5</p>
  </div>
 </div>
