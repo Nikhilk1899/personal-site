@@ -1,0 +1,42 @@
+<div class="section">
+ <h1 class="section-heading text-lg">Contact</h1>
+ <form action="index.html" method="get">
+ <fieldset>
+ <legend>Get In Touch</legend>
+ <div class="form-sub-group">
+ <input
+ type="text"
+ name="first-name"
+ id="first-name"
+ placeholder="First Name"
+ required
+ />
+ <input
+ type="text"
+ name="last-name"
+ id="last-name"
+ placeholder="Last Name"
+ required
+ />
+ </div>
+ <div class="form-sub-group">
+ <input
+ type="email"
+ name="email"
+ id="email"
+ placeholder="Email Address"
+ required
+ />
+ <input type="text" name="phone" id="phone" placeholder="Phone Number" />
+ </div>
+ <input type="text" name="address" id="address" placeholder="Address" />
+ <textarea
+ name="message"
+ id="message"
+ placeholder="Write your suggestions here."
+ required
+ ></textarea>
+ <input type="submit" value="Submit" class="btn-primary" />
+ </fieldset>
+ </form>
+</div>

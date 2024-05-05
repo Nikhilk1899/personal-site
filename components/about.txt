@@ -1,0 +1,9 @@
+<div class="section">
+ <div class="introduction">
+ <h1 class="name">Nikhil <span>Khanal</span></h1>
+ <p class="intro">
+ Welcome to my portfolio! I'm a passionate young web developer with a knack for creating dynamic and engaging websites. I've had the privilege of working with big-name companies across the globe, transforming their online presence with my unique blend of technical skills and creative vision. Dive into my portfolio to see how I've helped these companies reach new heights in the digital world.
+ </p>
+ <button class="ct-btn">Contact</button>
+ </div>
+</div>
