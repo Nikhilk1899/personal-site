@@ -1,4 +1,4 @@
-<div class="section">
+ple<div class="section">
  <h1 class="section-heading">Gallery</h1>
  <div class="gallery-container">
  <div class="project-card">
@@ -19,7 +19,7 @@
  </div>
 
  <div class="project-card">
- <img src="gallery/5.jpg" alt="sunset">
+ <img src="../gallery/5.jpg" alt="example">
  <p class="title">Example 5</p>
  </div>
 </div>
