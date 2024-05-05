@@ -2,19 +2,19 @@
  <h1 class="section-heading">Gallery</h1>
  <div class="gallery-container">
  <div class="project-card">
- <img src="../gallery/bond.jpg" alt="bond">
+ <img src="./gallery/bond.jpg" alt="bond">
  <p class="title">Mother - Daughter Bond</p>
  </div>
  <div class="project-card">
- <img src="../gallery/sausage.jpg" alt="sausage">
+ <img src="./gallery/sausage.jpg" alt="sausage">
  <p class="title">A Great Sausage Serving</p>
  </div>
  <div class="project-card">
- <img src="../gallery/coffee.jpg" alt="coffee">
+ <img src="./gallery/coffee.jpg" alt="coffee">
  <p class="title">Coffee Machine</p>
  </div>
  <div class="project-card">
- <img src="../gallery/sunset.jpg" alt="sunset">
+ <img src="./gallery/sunset.jpg" alt="sunset">
  <p class="title">A Promising sunset</p>
  </div>
 
